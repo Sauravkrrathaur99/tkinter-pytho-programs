@@ -29,5 +29,5 @@ bluebutton = Button(frame, text ='Blue', fg ='blue')
 bluebutton.pack( side = LEFT )
 blackbutton = Button(bottomframe, text ='Black', fg ='black')
 blackbutton.pack( side = BOTTOM)
-root.geometry("100x100")
+
 root.mainloop()
